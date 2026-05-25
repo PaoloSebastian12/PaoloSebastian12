@@ -1,5 +1,5 @@
-# Oi! Eu sou [Nome do Usuário]! 👋
-
+# Paolo Aguayo 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=IA+Engenieer;Data+Science;FastAPI+|+Gemini+IA+|+LangGraph)](https://git.io/typing-svg)
 Soy um desenvolvedor Full-Stack especializado em IA Generativa, Machine Learning, Engenharia de Dados e Ciências de Dados. Atualmente, estou na criação de um bot de WhatsApp que estou vendendo (O ApexBot), focado em [detalhes do bot - e.g., atendimento automatizado].
 
 ## O que eu faço / What I Do:
