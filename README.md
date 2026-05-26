@@ -9,8 +9,13 @@
     <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
-  <img src="https://komarev.com/ghpvc/?username=PaoloSebastian12&label=VISITAS&color=ff6f00&style=for-the-badge" alt="Contador de Visitas">
+  <img src="https://komarev.com/ghpvc/?username=PaoloSebastian12&label=VISITAS&color=F70000&style=for-the-badge" alt="Contador de Visitas">
 </p>
+
+## About me 🚀
+
+https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif
+
 Soy um desenvolvedor Full-Stack especializado em IA Generativa, Machine Learning, Engenharia de Dados e Ciências de Dados. Atualmente, estou na criação de um bot de WhatsApp que estou vendendo (O ApexBot), focado em [detalhes do bot - e.g., atendimento automatizado].
 
 ## O que eu faço / What I Do:
