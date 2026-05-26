@@ -14,19 +14,23 @@
 
 ## About me 🚀
 
-https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-Soy um desenvolvedor Full-Stack especializado em IA Generativa, Machine Learning, Engenharia de Dados e Ciências de Dados. Atualmente, estou na criação de um bot de WhatsApp que estou vendendo (O ApexBot), focado em [detalhes do bot - e.g., atendimento automatizado].
+I am a Full-Stack Developer focused on transforming data into intelligent solutions, specializing in Generative AI, Machine Learning, and Data Engineering. Currently, I am leading the development and commercialization of **WapBot**—an advanced WhatsApp automation solution designed to optimize customer service and intelligently scale business operations.
 
-## O que eu faço / What I Do:
+Sou um desenvolvedor Full-Stack focado em transformar dados em soluções inteligentes, com especialidade em IA Generativa, Machine Learning e Engenharia de Dados. No momento, estou liderando o desenvolvimento e a comercialização do **WapBot**, uma solução avançada de automação para WhatsApp projetada para otimizar o atendimento ao cliente e escalar operações de forma inteligente.
 
-* 🤖 Desenvolvimento de aplicações com LLMs (Vertex AI/Gemini)
-* 🧠 Machine Learning e pipelines de ML
-* 📊 Pipelines de dados e integração BigQuery
-* 🕸️ Orquestação de agentes
-* 🔧 APIs REST com FastAPI e integrações de webhook
-* 📈 Geração automatizada de relatórios (PDFs, visualizações)
-* 🗄️ Automatizacon de procesos de la web (ajuda a administradores a extrair e salvar arquivos en carpetas predeterminadas)
+## 🚀 O que eu faço / What I Do:
+
+| Atividade  | Activity |
+| :--- | :--- |
+| 🤖 **Desenvolvimento com LLMs**<br><sub>Aplicações inteligentes com Vertex AI e Gemini.</sub> | 🤖 **LLM Application Development**<br><sub>Building smart solutions using Vertex AI and Gemini.</sub> |
+| 🧠 **Machine Learning**<br><sub>Modelagem e pipelines de ML ponta a ponta.</sub> | 🧠 **Machine Learning**<br><sub>End-to-end ML modeling and workflows.</sub> |
+| 📊 **Engenharia de Dados**<br><sub>Pipelines robustos e integração com BigQuery.</sub> | 📊 **Data Engineering**<br><sub>Robust data pipelines and BigQuery integration.</sub> |
+| 🕸️ **Orquestração de Agentes**<br><sub>Sistemas multi-agente complexos (LangGraph/LlamaIndex).</sub> | 🕸️ **Agent Orchestration**<br><sub>Complex multi-agent systems using LangGraph & LlamaIndex.</sub> |
+| 🔧 **APIs & Webhooks**<br><sub>Sistemas escaláveis com FastAPI e integrações web.</sub> | 🔧 **APIs & Webhooks**<br><sub>Scalable backends with FastAPI and web integrations.</sub> |
+| 📈 **Relatórios Automatizados**<br><sub>Geração dinâmica de PDFs e visualizações de dados.</sub> | 📈 **Automated Reporting**<br><sub>Dynamic PDF generation and data visualizations.</sub> |
+| 🗄️ **Automação Web**<br><sub>Extração de arquivos e organização automatizada de diretórios.</sub> | 🗄️ **Web Automation**<br><sub>Automated file extraction and smart directory sorting.</sub> |
 
 ## Minhas Certificações Google Cloud:
 
