@@ -1,6 +1,16 @@
 # Paolo Aguayo 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Open+Sans&weight=800&pause=1000&color=F70000&width=435&lines=IA+Engenieer+%E2%9A%99%EF%B8%8F;Data+Science+%F0%9F%92%BE;FastAPI+%7C+Gemini+IA+%7C+LangGraph;Google+Cloud+Certificate+%E2%AD%90)](https://git.io/typing-svg)
+<p align="left">
+  <a href="mailto:tu_correo@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/TU_PERFIL/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 
+  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_GITHUB&label=VISITAS&color=ff6f00&style=for-the-badge" alt="Contador de Visitas">
+</p>
 Soy um desenvolvedor Full-Stack especializado em IA Generativa, Machine Learning, Engenharia de Dados e Ciências de Dados. Atualmente, estou na criação de um bot de WhatsApp que estou vendendo (O ApexBot), focado em [detalhes do bot - e.g., atendimento automatizado].
 
 ## O que eu faço / What I Do:
