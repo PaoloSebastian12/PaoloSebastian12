@@ -20,7 +20,7 @@ I am a Full-Stack Developer focused on transforming data into intelligent soluti
 
 Sou um desenvolvedor Full-Stack focado em transformar dados em soluções inteligentes, com especialidade em IA Generativa, Machine Learning e Engenharia de Dados. No momento, estou liderando o desenvolvimento e a comercialização do **WapBot**, uma solução avançada de automação para WhatsApp projetada para otimizar o atendimento ao cliente e escalar operações de forma inteligente.
 
-## 🚀 O que eu faço / What I Do:
+## O que eu faço / What I Do:
 
 | Atividade  | Activity |
 | :--- | :--- |
