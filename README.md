@@ -32,10 +32,10 @@ Sou um desenvolvedor Full-Stack focado em transformar dados em soluções inteli
 | 📈 **Relatórios Automatizados**<br><sub>Geração dinâmica de PDFs e visualizações de dados.</sub> | 📈 **Automated Reporting**<br><sub>Dynamic PDF generation and data visualizations.</sub> |
 | 🗄️ **Automação Web**<br><sub>Extração de arquivos e organização automatizada de diretórios.</sub> | 🗄️ **Web Automation**<br><sub>Automated file extraction and smart directory sorting.</sub> |
 
-## Minhas Certificações Google Cloud:
+## 🏅 Google Cloud Certification:
 
-<p align="center">
-  <img src="path/to/your/badge_image.png" alt="Google Cloud Professional Data Engineer" width="400" />
+<p align="left">
+  <img src="https://img.shields.io/badge/GOOGLE_CLOUD-PROFESSIONAL_DATA_ENGINEER-ff6f00?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=F70000" alt="Google Cloud Professional Data Engineer">
 </p>
 
 ## 🔧 Stack Tecnológica
