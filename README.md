@@ -38,21 +38,42 @@ Sou um desenvolvedor Full-Stack focado em transformar dados em soluções inteli
   <img src="https://img.shields.io/badge/GOOGLE_CLOUD-PROFESSIONAL_DATA_ENGINEER-ff6f00?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=F70000" alt="Google Cloud Professional Data Engineer">
 </p>
 
-## 🔧 Stack Tecnológica
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
+## 🛠️ Stack Tecnológica
+
 ### Backend & APIs
-* **PYTHON** • **FASTAPI** • **SQL**
+<p align="left">
+  <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/FASTAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+</p>
 
 ### IA & Machine Learning
-* **VERTEX AI** • **GEMINI AI** • **TENSORFLOW** • **SCIKIT-LEARN** • **LangGraph** • **LangChain** • **AI Agents** • **Orchestration with LlamaIndex**
+<p align="left">
+  <img src="https://img.shields.io/badge/VERTEX_AI-000000?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Vertex AI">
+  <img src="https://img.shields.io/badge/GEMINI_AI-000000?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini AI">
+  <img src="https://img.shields.io/badge/TENSORFLOW-000000?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/SCIKIT_LEARN-000000?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
+  <img src="https://img.shields.io/badge/LANGGRAPH-000000?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangGraph">
+  <img src="https://img.shields.io/badge/LANGCHAIN-000000?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain">
+  <img src="https://img.shields.io/badge/AI_AGENTS-000000?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents">
+  <img src="https://img.shields.io/badge/LLAMAINDEX-000000?style=for-the-badge&logo=databricks&logoColor=white" alt="LlamaIndex">
+</p>
 
 ### Cloud & Data
-* **GOOGLE CLOUD** • **BIGQUERY** • **DATABRICKS**
+<p align="left">
+  <img src="https://img.shields.io/badge/GOOGLE_CLOUD-000000?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
+  <img src="https://img.shields.io/badge/BIGQUERY-000000?style=for-the-badge&logo=google-cloud&logoColor=white" alt="BigQuery">
+  <img src="https://img.shields.io/badge/DATABRICKS-000000?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks">
+</p>
 
 ### Ferramentas
-* **GIT** • **DOCKER** • **JUPYTER**
+<p align="left">
+  <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/JUPYTER-000000?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+</p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
