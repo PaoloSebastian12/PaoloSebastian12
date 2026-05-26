@@ -42,37 +42,39 @@ Sou um desenvolvedor Full-Stack focado em transformar dados em soluções inteli
 
 ## 🛠️ Stack Tecnológica
 
+<img src="[https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)" width="100%">
+
 ### Backend & APIs
 <p align="left">
-  <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/FASTAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
+  <img src="https://img.shields.io/badge/FASTAPI-000000?style=for-the-badge&logo=fastapi&logoColor=green" alt="FastAPI">
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=skyblue" alt="SQL">
 </p>
 
 ### IA & Machine Learning
 <p align="left">
   <img src="https://img.shields.io/badge/VERTEX_AI-000000?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Vertex AI">
-  <img src="https://img.shields.io/badge/GEMINI_AI-000000?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini AI">
-  <img src="https://img.shields.io/badge/TENSORFLOW-000000?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/SCIKIT_LEARN-000000?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
-  <img src="https://img.shields.io/badge/LANGGRAPH-000000?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangGraph">
-  <img src="https://img.shields.io/badge/LANGCHAIN-000000?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain">
-  <img src="https://img.shields.io/badge/AI_AGENTS-000000?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents">
-  <img src="https://img.shields.io/badge/LLAMAINDEX-000000?style=for-the-badge&logo=databricks&logoColor=white" alt="LlamaIndex">
+  <img src="https://img.shields.io/badge/GEMINI_AI-000000?style=for-the-badge&logo=google-gemini&logoColor=purple" alt="Gemini AI">
+  <img src="https://img.shields.io/badge/TENSORFLOW-000000?style=for-the-badge&logo=tensorflow&logoColor=orange" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/SCIKIT_LEARN-000000?style=for-the-badge&logo=scikit-learn&logoColor=yellow" alt="Scikit-Learn">
+  <img src="https://img.shields.io/badge/LANGGRAPH-000000?style=for-the-badge&logo=chainlink&logoColor=grey" alt="LangGraph">
+  <img src="https://img.shields.io/badge/LANGCHAIN-000000?style=for-the-badge&logo=chainlink&logoColor=brown" alt="LangChain">
+  <img src="https://img.shields.io/badge/AI_AGENTS-000000?style=for-the-badge&logo=openai&logoColor=purple" alt="AI Agents">
+  <img src="https://img.shields.io/badge/LLAMAINDEX-000000?style=for-the-badge&logo=databricks&logoColor=pink" alt="LlamaIndex">
 </p>
 
 ### Cloud & Data
 <p align="left">
-  <img src="https://img.shields.io/badge/GOOGLE_CLOUD-000000?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
-  <img src="https://img.shields.io/badge/BIGQUERY-000000?style=for-the-badge&logo=google-cloud&logoColor=white" alt="BigQuery">
-  <img src="https://img.shields.io/badge/DATABRICKS-000000?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks">
+  <img src="https://img.shields.io/badge/GOOGLE_CLOUD-000000?style=for-the-badge&logo=google-cloud&logoColor=blue" alt="Google Cloud">
+  <img src="https://img.shields.io/badge/BIGQUERY-000000?style=for-the-badge&logo=google-cloud&logoColor=blue" alt="BigQuery">
+  <img src="https://img.shields.io/badge/DATABRICKS-000000?style=for-the-badge&logo=databricks&logoColor=orange" alt="Databricks">
 </p>
 
 ### Ferramentas
 <p align="left">
   <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/JUPYTER-000000?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=blue" alt="Docker">
+  <img src="https://img.shields.io/badge/JUPYTER-000000?style=for-the-badge&logo=jupyter&logoColor=orange" alt="Jupyter">
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
