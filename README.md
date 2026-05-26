@@ -42,7 +42,7 @@ Sou um desenvolvedor Full-Stack focado em transformar dados em soluções inteli
 
 ## 🛠️ Stack Tecnológica
 
-<img src="[https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ### Backend & APIs
 <p align="left">
@@ -79,22 +79,36 @@ Sou um desenvolvedor Full-Stack focado em transformar dados em soluções inteli
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## Destaque do Projeto: ApexBot
-
-* 🤖 **Bot de WhatsApp com IA:** Automatización de atención al cliente para ventas y soporte.
-* 🔗 **Tecnologías:** FastAPI, Webhooks, Google Cloud Platform (BigQuery), Vertex AI (Gemini).
-
-## 📊 Atividade e Estatísticas do GitHub (Animadas)
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[USUÁRIO_GITHUB]&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[USUÁRIO_GITHUB]&bg_color=0d1117&color=ff6f00&line=ff6f00&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PaoloSebastian12&bg_color=0d1117&color=F70000&line=F70000&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
-## 💬 Vamos conversar?
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Space Invaders Commits">
+</p>
 
-Quer trocar uma ideia? Manda uma mensagem lá no LinkedIn!
-To sempre on pra trocar ideias sobre carreira, tecnologías, bjj ou pela pura e simples resenha.
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+<p align="center">
+  <h2>💬 Vamos conversar? / Let's Connect!</h2>
+  <br>
+  
+  <b>Quer expandir o networking ou trocar uma experiência?</b><br>
+  Me manda um alô no LinkedIn! Estou sempre disponível para conversar sobre evolução profissional, engenharia de dados, bjj ou simplesmente jogar conversa fora.
+  <br><br>
+  
+  <b>Looking to expand your network or share insights?</b><br>
+  Drop me a message on LinkedIn! I'm always down to chat about career growth, data engineering, tech trends, bjj, or just to have a good casual conversation.
+  <br><br>
+
+  <a href="https://www.linkedin.com/in/TU_PERFIL/" target="_blank">
+    <img src="https://img.shields.io/badge/CONECTAR_NO_LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 <!--
 **PaoloSebastian12/PaoloSebastian12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
